@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Chukwuma, a skilled Front End Developer with 3+ years of experience building scalable solutions with the latest web and programming technologies and the best practices
-- 👀 I’m interested in helping others grow, especially absolute beginners, through mentorship, boot camps, code reviews and bug fixes
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on machine learning
+- 👋 I am a seasoned IT professional with 3 years of experience in UNIX/Linux systems management, enterprise Storage and SAN infrastructure, and large-scale deployment management.
+- 👀 I began as an Information Technology Specialist, providing front-line technical support and basic setup of Windows systems
+- 🌱 Transitioning to UNIX/Linux systems, I have excelled in collaborating with cross-functional teams to deliver efficient solutions in dynamic environments.
 - 📫 How to reach me via email: igboanusichukwuma@gmail.com
 
 <!---
